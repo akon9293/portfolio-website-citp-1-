@@ -43,6 +43,7 @@ body {
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
+  background-color: #F9FAFF;
 }
 
 ul,
@@ -96,6 +97,15 @@ select {
 
 .ProjectsButton{
   padding: 8px 24px 8px 24px
+}
+
+
+.margin_auto{
+ margin: auto;
+}
+
+.marginTopproject{
+  margin-top: 80px;
 }
 
 /* css common class end */

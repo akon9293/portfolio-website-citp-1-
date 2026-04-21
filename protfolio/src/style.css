@@ -108,9 +108,25 @@ select {
   margin-top: 80px;
 }
 
+
+.marginCard_p{
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+.projecTtitle_leftMargin{
+ margin-left: 50px;
+}
+
+.marginCard_p_Rigth{
+  margin-right: 38px;
+}
+
 /* css common class end */
 
 .hero{
   padding-top: 111px;
+}
+.topDown{
+  margin-top: -100px;
 }
 

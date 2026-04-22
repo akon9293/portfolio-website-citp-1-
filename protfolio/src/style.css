@@ -121,6 +121,11 @@ select {
   margin-right: 38px;
 }
 
+.margin_5px{
+  margin-top: 24px;
+  margin-left: 311px;
+}
+
 /* css common class end */
 
 .hero{
@@ -130,3 +135,20 @@ select {
   margin-top: -100px;
 }
 
+.Contact{
+  margin-top: 144px;
+}
+.input {
+  padding: 0px 10px;
+}
+
+.margin_tom_icon{
+  margin-top: 56px;
+}
+
+.margin_top_Madelyn{
+  margin-top: 24px;
+}
+
+
+/* Tailwind padding & margin utilities didn't work properly, so custom classes were created */
